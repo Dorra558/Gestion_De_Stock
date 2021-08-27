@@ -4,3 +4,6 @@
 [submodule "Stock_Backend"]
 	path = Stock_Backend
 	url = https://github.com/Dorra558/Stock_Backend.git
+[submodule "Stock_Back"]
+	path = Stock_Back
+	url = https://github.com/Dorra558/Stock_Back.git
